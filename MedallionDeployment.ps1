@@ -7,8 +7,8 @@ $groupContributors = "<OBJECT-ID-FOR-CONTRIBUTORS>"
 $groupViewers      = "<OBJECT-ID-FOR-VIEWERS>"
 
 # Environments and layers
-$environments = @("dev", "test", "prod")
-$layers = @("bronze", "silver", "gold")
+$environments = @("Dev", "Test", "Prod")
+$layers = @("Bronze", "Silver", "Gold")
 $workspaceMap = @{}
 
 # === AUTHENTICATE ===
