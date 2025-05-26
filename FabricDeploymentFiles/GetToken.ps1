@@ -1,6 +1,6 @@
-$tenantId     = "<TENANT-ID>"
-$clientId     = "<CLIENT-ID>"
-$clientSecret = "<CLIENT-SECRET>"
+$tenantId     = "7e8baf8d-8cce-462d-8d96-d3b092d2818b"
+$clientId     = "0ea370d6-23e6-43bc-a1e7-9d1b966cb403"
+$clientSecret = "QKR8Q~tXSW7yX1RQuQOpZgmt4OYY15wBJu7maaAv"
 $scope        = "https://analysis.windows.net/powerbi/api/.default"
 $tokenUrl     = "https://login.microsoftonline.com/$tenantId/oauth2/v2.0/token"
 
